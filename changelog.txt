@@ -1,0 +1,20 @@
+=============Changelog==============
+version alpha-0.0.1
+  Completed:
+    função fadeOut concertada
+  Errors:
+    Não desenha o cutscene1()
+  WIP:
+    função FadeIn
+    função de rotação de imagem
+    trabalhar sons
+    trabalhar textos
+  Ideas:
+    Definir todas as Animações no gameassets.py
+    integrar historia.txt com sistema de textos
+-----------next update-------------
+version alpha-0.0.2
+  Completed:
+  Errors:
+  WIP:
+  Ideas:
