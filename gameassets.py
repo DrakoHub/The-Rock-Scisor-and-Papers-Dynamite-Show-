@@ -1,6 +1,5 @@
 import pygame
 
-
 #button class
 class Button():
 
@@ -46,3 +45,4 @@ class Animation():
     if rel_width < self.size_x:
       self.surface.blit(self.image, (rel_width, 0))
     self.size_x -= self.velocity
+
