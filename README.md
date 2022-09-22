@@ -1,2 +1,2 @@
 # The-Rock-Scisor-and-Papers-Dynamite-Show-
-A BetaBetaBeta do Beta de um beta de um jogo "rpg" de pedra, papel e tesoura.
+The Rock Scisor and Papers: Dynamite Show, é um jogo de RPG e Casual, protagonisado pelo The Rock, que quer se vingar do terry crews que destrui sua vila e ele desejou vigança.
